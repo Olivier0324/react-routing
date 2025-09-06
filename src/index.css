@@ -25,3 +25,6 @@ a{
   gap: 16px;
   align-items: center;
 }
+a.active{
+  color: #045ab1;
+}
