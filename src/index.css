@@ -8,3 +8,20 @@ body{
   min-height: 100vh;
   width: 100%;
 }
+a{
+  color: #fef;
+  text-decoration: none;
+}
+.navbar{
+  width: 100%;
+  padding: 20px 10%;
+  background: #02376d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navbar nav{
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
