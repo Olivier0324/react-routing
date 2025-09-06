@@ -26,6 +26,7 @@ a{
   gap: 16px;
   align-items: center;
 }
+<<<<<<< HEAD
 .DasboardWrapper{
   width: 100vw;
   min-height: 100vh;
@@ -118,6 +119,8 @@ margin-top: 20px;
     color: #035886;
   }
 }
+=======
+>>>>>>> e372da97c8bc9f4e0c3087698e30207a2044a14a
 a.active{
   color: #045ab1;
 }
